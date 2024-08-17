@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "393979056256",
+    "project_id": "online-shopping-app-bb1c7",
+    "storage_bucket": "online-shopping-app-bb1c7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:393979056256:android:bb4ec850e16d9f3a285665",
+        "android_client_info": {
+          "package_name": "com.example.onlineshoppingapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyChqWi2OEwW-F6yOgbJy8gMBwdvsCyq5uw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

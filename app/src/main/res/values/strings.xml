@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Online Shopping  App</string>
+    <string name="intro_title">Step into your <font color="#6033ba">style\nA world of shoes</font></string>
+    <string name="intro_text">Browse te latest styles from top brands\nGet personalized recommendation\nEnjoy fast, free shipping</string>
+    <string name="intro_signin">Already have an account? <font color="6033ba"> Sign In </font></string>
+
+</resources>
